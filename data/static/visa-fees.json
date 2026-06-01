@@ -1,0 +1,74 @@
+{
+  "_note": "Source: homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges. Updated: June 2024. All AUD.",
+  "_source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing",
+  "visaApplicationCharges": {
+    "189": {
+      "name": "Skilled Independent",
+      "primaryApplicant": 4640,
+      "additionalApplicant18Plus": 2320,
+      "additionalApplicantUnder18": 1155,
+      "note": "Fees are non-refundable once application is lodged."
+    },
+    "190": {
+      "name": "Skilled Nominated",
+      "primaryApplicant": 4640,
+      "additionalApplicant18Plus": 2320,
+      "additionalApplicantUnder18": 1155,
+      "note": "Same base fee as 189. State nomination fees apply separately."
+    },
+    "491": {
+      "name": "Skilled Work Regional (Provisional)",
+      "primaryApplicant": 4640,
+      "additionalApplicant18Plus": 2320,
+      "additionalApplicantUnder18": 1155,
+      "note": "Provisional visa. Additional SC-191 fee applies after 3 years."
+    },
+    "191": {
+      "name": "Permanent Residence (Skilled Regional)",
+      "primaryApplicant": 4640,
+      "additionalApplicant18Plus": 2320,
+      "additionalApplicantUnder18": 1155,
+      "note": "Applied for after 3 years on SC-491 with income threshold met."
+    }
+  },
+  "stateNominationFees": {
+    "NSW": { "fee": 300,  "note": "Payable online to NSW Government" },
+    "VIC": { "fee": 0,    "note": "No nomination application fee" },
+    "QLD": { "fee": 0,    "note": "No nomination application fee" },
+    "WA":  { "fee": 0,    "note": "No nomination application fee" },
+    "SA":  { "fee": 295,  "note": "Payable to SA Government" },
+    "TAS": { "fee": 0,    "note": "No nomination application fee" },
+    "ACT": { "fee": 0,    "note": "No nomination application fee" },
+    "NT":  { "fee": 0,    "note": "No nomination application fee" }
+  },
+  "skillsAssessmentFees": {
+    "ACS (ICT)":             { "fee": 530,  "turnaround": "4–8 weeks",  "url": "https://www.acs.org.au/msa" },
+    "Engineers Australia":   { "fee": 825,  "turnaround": "6–12 weeks", "url": "https://www.engineersaustralia.org.au" },
+    "ANMAC (Nursing)":       { "fee": 470,  "turnaround": "4–8 weeks",  "url": "https://www.anmac.org.au" },
+    "AITSL (Teaching)":      { "fee": 592,  "turnaround": "6–12 weeks", "url": "https://www.aitsl.edu.au" },
+    "AMC (Medicine)":        { "fee": 1650, "turnaround": "8–16 weeks", "url": "https://www.amc.org.au" },
+    "AHPRA (Allied Health)": { "fee": 350,  "turnaround": "4–6 weeks",  "url": "https://www.ahpra.gov.au" },
+    "CPA Australia":         { "fee": 695,  "turnaround": "6–10 weeks", "url": "https://www.cpaaustralia.com.au" },
+    "Chartered Accountants": { "fee": 695,  "turnaround": "6–10 weeks", "url": "https://www.charteredaccountantsanz.com" },
+    "AIPM (Project Mgmt)":   { "fee": 730,  "turnaround": "6–8 weeks",  "url": "https://www.aipm.com.au" },
+    "TRA (Trades)":          { "fee": 400,  "turnaround": "8–16 weeks", "url": "https://www.tradesrecognitionaustralia.gov.au" },
+    "AASW (Social Work)":    { "fee": 395,  "turnaround": "4–6 weeks",  "url": "https://www.aasw.asn.au" }
+  },
+  "englishTestFees": {
+    "IELTS Academic":     { "fee": 415, "validity": "3 years", "provider": "British Council / IDP" },
+    "PTE Academic":       { "fee": 380, "validity": "3 years", "provider": "Pearson. Fastest results." },
+    "TOEFL iBT":          { "fee": 345, "validity": "2 years", "provider": "ETS" },
+    "Cambridge C1/C2":    { "fee": 395, "validity": "No expiry (accepted by DHA indefinitely)", "provider": "Cambridge" },
+    "OET (Healthcare)":   { "fee": 480, "validity": "2 years", "provider": "Cambridge Boxhill. Healthcare only." }
+  },
+  "migrationAgentFees": {
+    "_note": "Estimates only. Actual fees vary significantly by agent and complexity.",
+    "EOI Preparation":           { "low": 500,  "high": 1500,  "description": "Review profile, lodge EOI in SkillSelect" },
+    "Skills Assessment Assist":  { "low": 800,  "high": 2000,  "description": "Preparing assessment documents and application" },
+    "State Nomination":          { "low": 1200, "high": 3000,  "description": "State nomination lodgement and follow-up" },
+    "Full Visa Application":      { "low": 3000, "high": 8000,  "description": "End-to-end visa management" },
+    "Consultation Only":         { "low": 200,  "high": 500,   "description": "One-off strategy consultation" }
+  },
+  "lastUpdated": "2024-06-01",
+  "currency": "AUD"
+}
